@@ -22,4 +22,4 @@ DEPENDENCIAS:
 1x - piezo
 
 COMO REPRODUZIR:
-https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:98ca68e9-8e64-4c23-8416-b48e7e2a780d
+https://www.tinkercad.com/things/6ikTB8Psdh0/editel?returnTo=%2Fprojects&sharecode=hn6Gq6obMA0MwXodYZJzv-ZWrNC1moVg3Gq2D1_cK5A
