@@ -3,8 +3,8 @@
 GRUPO:BRAINROTTERS
 -GUILHERME AMARAL
 -ENRICO BAGLI BORGES
-=JOAO CAZZARINI
--MATHEUS ANTUNEZ
+=JOAO CAZARINI
+-MATHEUS ANTUNES
 -RAFAEL MORAES
 
 EXPLICACAO: Neste trabalho fizemos um sistema embarcado cujo objetivo e alertar a quantidade de luminosidade presente em alguma area servindo como um controle e monitoramento feito a partir de luzes para informar a luminosidade e tambem um
